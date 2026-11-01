@@ -1,0 +1,19 @@
+{
+  "id": "markraft",
+  "name": "Markraft",
+  "author": "ahonn",
+  "description": "A floating Markdown notepad for macOS. Press ⌥N in any app to write, and again to put it away. Formatting shows as you type, with tables, task lists, wiki links, math and code blocks. Notes stay plain .md files that Obsidian can open.",
+  "category": "work",
+  "platforms": [
+    "macOS"
+  ],
+  "website": "https://markraft.app",
+  "source": "https://github.com/ahonn/markraft",
+  "publishedAt": "2026-11-02T00:00:00Z",
+  "previews": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png",
+    "preview3.png"
+  ]
+}
